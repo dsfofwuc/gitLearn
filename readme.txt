@@ -7,3 +7,5 @@ Creating a new branch is quick.
 Creating a new branch is quick & simple.
 feature 提交
 
+非 Fast forward 模式
+
